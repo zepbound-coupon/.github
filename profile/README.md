@@ -24,6 +24,30 @@ offers and discounts live.
    | SingleCare | $ 950 | 25% | Free signup for additional discounts and much more |
    | WellRx | Varies | 80% | Free Coupon avaliable |
    | FamilyWise | VAries | 75% | No signup Required |
+
+   -----
+## Tips To maximize Your Savings:
+
+* Check Eligibility: Ensure your meet the criteria for the savings programs, especially regarding insurance status.
+* compare prices: Use multiple discount website to find the best price at your local pharmacy.
+* Refull timely: For lilly direct discounts, refilling within the specified time fram can secure lower prices.
+* Consult your Doctor: Discuss with your healthcare provider about the best options for obtaining zepbound affordably.
+
+------------
+
+## Frequently asked questions 
+
+Q: Can i use the lilly savings card if i hav medicare or medicalid?
+No, the lilly savings card is only avaliable to patients with commercial drug insurance.
+
+Q: Are there any programs for uninsured patients?
+Yes, the lilly Direct self pay program offers discounted prices for patients with out insurance.
+
+Q: How often can I use the lilly savings card?
+Visit the official zepbound website at zepbound.lilly.com for detailed information and application forms.
+
+
+   
     
 
 <!--
