@@ -21,7 +21,7 @@ offers and discounts live.
    | WEBSITE  | Estimated Price | Savings Up to | Notes |
    | -------- | --------------- | ------------- | ------ |
    | GoodRx    | $ 995 | 22%  | no signup required |    
-   
+    
 
 <!--
 
