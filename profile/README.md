@@ -20,7 +20,10 @@ offers and discounts live.
 
    | WEBSITE  | Estimated Price | Savings Up to | Notes |
    | -------- | --------------- | ------------- | ------ |
-   | GoodRx    | $ 995 | 22%  | no signup required |    
+   | GoodRx    | $ 995 | 22%  | no signup required |
+   | SingleCare | $ 950 | 25% | Free signup for additional discounts and much more |
+   | WellRx | Varies | 80% | Free Coupon avaliable |
+   | FamilyWise | VAries | 75% | No signup Required |
     
 
 <!--
