@@ -19,6 +19,8 @@ offers and discounts live.
    These platforms offer coupons that can be used at local pharmacies:
 
    | WEBSITE  | Estimated Price | Savings Up to | Notes |
+   | -------- | --------------- | ------------- | ------ |
+   | GoodRx    | $ 995 | 22%  | no signup required |    
    
 
 <!--
